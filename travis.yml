@@ -1,0 +1,9 @@
+language: objective-c
+
+branches:
+ only:
+ - master
+
+xcode_project: DyPhotos.xcodeproj
+xcode_scheme: DyPhotosTests
+osx_image: xcode8.1
