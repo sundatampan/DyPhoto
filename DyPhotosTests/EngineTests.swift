@@ -57,5 +57,4 @@ class EngineTests: XCTestCase {
         
         XCTAssertTrue(photos.count > 0)
     }
-    
 }
